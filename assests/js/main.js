@@ -23,3 +23,7 @@ $(document).ready(function () {
         }
     });
 });
+window.addEventListener('scroll', () => {
+    var x = document.querySelector('.nav')
+    console.log({ x })
+})
