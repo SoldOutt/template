@@ -20,6 +20,13 @@
 .px-medium {
     padding: 0 375px;
 }
+.bg-gradient {
+    background: linear-gradient(
+        90deg,
+        rgba(255, 173, 58, 1) 0%,
+        rgba(246, 123, 148, 1) 100%
+    );
+}
 .bg-primary {
     background-color: var(--primary-color);
 }

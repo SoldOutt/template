@@ -6,6 +6,7 @@ import Portafolio from './containers/Portafolio'
 import Testimon from './containers/Testimon'
 import Partner from './containers/Partner'
 import Blog from './containers/Blog'
+import Contact from './containers/Contact'
 function App() {
     return (
         <div className="App">
@@ -16,6 +17,7 @@ function App() {
             <Testimon></Testimon>
             <Partner></Partner>
             <Blog></Blog>
+            <Contact></Contact>
         </div>
     )
 }
