@@ -4,6 +4,7 @@ import Offer from './containers/Offer'
 import Brand from './containers/Brand'
 import Portafolio from './containers/Portafolio'
 import Testimon from './containers/Testimon'
+import Partner from './containers/Partner'
 function App() {
     return (
         <div className="App">
@@ -12,6 +13,7 @@ function App() {
             <Brand></Brand>
             <Portafolio></Portafolio>
             <Testimon></Testimon>
+            <Partner></Partner>
         </div>
     )
 }

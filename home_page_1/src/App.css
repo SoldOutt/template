@@ -23,6 +23,9 @@
 .bg-primary {
     background-color: var(--primary-color);
 }
+.bg-secondary {
+    background-color: var(--secondary-color);
+}
 .btn-large {
     padding: 1.33rem 4rem;
 }
@@ -34,6 +37,12 @@
 }
 .text-blur {
     color: var(--text-blur);
+}
+.text-light {
+    color: var(--secondary-color);
+}
+.text-primary {
+    color: var(--primary-color);
 }
 .hidden {
     display: none;
