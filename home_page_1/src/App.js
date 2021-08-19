@@ -5,6 +5,7 @@ import Brand from './containers/Brand'
 import Portafolio from './containers/Portafolio'
 import Testimon from './containers/Testimon'
 import Partner from './containers/Partner'
+import Blog from './containers/Blog'
 function App() {
     return (
         <div className="App">
@@ -14,6 +15,7 @@ function App() {
             <Portafolio></Portafolio>
             <Testimon></Testimon>
             <Partner></Partner>
+            <Blog></Blog>
         </div>
     )
 }
