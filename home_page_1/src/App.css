@@ -16,7 +16,10 @@
     border: none;
     border-radius: 10px;
     color: #fff;
+    cursor: pointer;
+    position: relative;
 }
+
 .px-medium {
     padding: 0 375px;
 }

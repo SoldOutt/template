@@ -7,6 +7,7 @@ import Testimon from './containers/Testimon'
 import Partner from './containers/Partner'
 import Blog from './containers/Blog'
 import Contact from './containers/Contact'
+import Footer from './containers/Footer'
 function App() {
     return (
         <div className="App">
@@ -18,6 +19,7 @@ function App() {
             <Partner></Partner>
             <Blog></Blog>
             <Contact></Contact>
+            <Footer></Footer>
         </div>
     )
 }
