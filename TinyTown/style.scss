@@ -1,0 +1,15 @@
+$primary-color: #1a73e8;
+$first-color: #e5e5e5;
+
+* {
+    color: red;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+    }
+}
